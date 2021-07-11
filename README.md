@@ -1,4 +1,4 @@
-## bat脚本通过LE启动MapleStory
+## bat脚本通过LE启动新枫之谷
 
 1、首先你得安装Locale Emulator如何安装自行百度，以下简称LE
 
